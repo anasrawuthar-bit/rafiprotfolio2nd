@@ -177,7 +177,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${syne.variable} ${spaceGrotesk.variable} ${inter.variable} h-full antialiased scroll-smooth`}
+      className={`${syne.variable} ${spaceGrotesk.variable} ${inter.variable} h-full antialiased`}
     >
       <head>
         <script
